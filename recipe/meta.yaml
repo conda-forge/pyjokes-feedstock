@@ -1,4 +1,4 @@
-{% set version = "0.6.0" %}
+{% set version = "0.7.2" %}
 
 package:
   name: pyjokes
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/p/pyjokes/pyjokes-{{ version }}.tar.gz
-  sha256: 08860eedb78cbfa4618243c8db088f21c39823ece1fdaf0133e52d9c56e981a5
+  sha256: 1a0dab5bfd30deee547055ebf26b2073b4dd10b708311b4c9bdf6ccb743d5821
 
 build:
   number: 0
